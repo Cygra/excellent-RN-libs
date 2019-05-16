@@ -6,6 +6,8 @@
 
 - [👍react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 
+- [👍react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
+
 - [👍react-native-scrollable-tab-view](https://github.com/ptomasroos/react-native-scrollable-tab-view) - Tabbed navigation that you can swipe between, each tab can have its own ScrollView and maintain its own scroll position between swipes.
 
 - [👍react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.
