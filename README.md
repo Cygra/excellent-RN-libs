@@ -12,6 +12,8 @@
 
 - [👍react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.
 
+- [👍react-native-elements](https://github.com/react-native-training/react-native-elements) - Cross Platform React Native UI Toolkit
+
 - [👏react-native-svg](https://github.com/react-native-community/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
 
 - [👏react-native-storage](https://github.com/sunnylqm/react-native-storage) - local storage wrapper for both react-native and browser. Support size controlling, auto expiring, remote data auto syncing and getting batch data in one query.
@@ -90,6 +92,8 @@
 
 - [react-native-transformable-image](https://github.com/ldn0x7dc/react-native-transformable-image) - A pure JavaScript written transformable image component, like PhotoView or ImageViewer, supports gestures like pan, pinch, double tab and fling, works with both iOS and Android.
 
+- [react-native-fonts](https://github.com/react-native-training/react-native-fonts) - Fonts available out of the box in a React Native project
+
 ## Debug
 
 - [👏react-native-debugger](https://github.com/jhen0409/react-native-debugger) - The standalone app based on official debugger of React Native, and includes React Inspector / Redux DevTools
@@ -99,3 +103,6 @@
 - [👍👏react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件
 
 - [👏RNStudyNotes](https://github.com/crazycodeboy/RNStudyNotes) - React Native 研究与实践
+
+- [fundamentals-materials](https://github.com/react-native-training/fundamentals-materials) - React Native Training - Materials Example App
+
