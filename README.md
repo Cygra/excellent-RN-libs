@@ -58,6 +58,10 @@
 
 - [👏react-native-video](https://github.com/react-native-community/react-native-video) - A <Video /> component for react-native
 
+- [👏react-native-tableview](https://github.com/aksonov/react-native-tableview) - Native iOS UITableView for React Native with JSON support and more
+
+- [👏react-native-collapsible](https://github.com/oblador/react-native-collapsible) - Animated collapsible component for React Native, good for accordions, toggles etc
+
 - [jpush-react-native](https://github.com/jpush/jpush-react-native) - JPush's officially supported React Native plugin (Android & iOS).
 
 - [react-native-bottom-sheet-behavior](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - react-native wrapper for android BottomSheetBehavior
@@ -94,15 +98,20 @@
 
 - [react-native-fonts](https://github.com/react-native-training/react-native-fonts) - Fonts available out of the box in a React Native project
 
+- [react-native-snackbar](https://github.com/cooperka/react-native-snackbar) - 🍱 Material Design "Snackbar" component for Android and iOS.
+
+- [react-native-search-bar](https://github.com/umhan35/react-native-search-bar) - The high-quality iOS native search bar for react native.
+
 ## Debug
 
 - [👏react-native-debugger](https://github.com/jhen0409/react-native-debugger) - The standalone app based on official debugger of React Native, and includes React Inspector / Redux DevTools
 
 ## Guides
 
-- [👍👏react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件
+- [👍react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件
 
 - [👏RNStudyNotes](https://github.com/crazycodeboy/RNStudyNotes) - React Native 研究与实践
 
 - [fundamentals-materials](https://github.com/react-native-training/fundamentals-materials) - React Native Training - Materials Example App
 
+- [React Made Native Easy](https://www.reactnative.guide/index.html) - A reference for building production-grade applications which are easy to test, maintain and extend to multiple platforms. https://github.com/react-made-native-easy/book
