@@ -2,13 +2,13 @@
 
 > Repos with more than 1,000 stars has a 👏, with more than 10,000 stars, 👍.
 
-- [👍👏react-native-interactable](https://github.com/wix/react-native-interactable) - Experimental implementation of high performance interactable views in React Native
+- [👍react-native-interactable](https://github.com/wix/react-native-interactable) - Experimental implementation of high performance interactable views in React Native
 
-- [👍👏react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
+- [👍react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 
-- [👍👏react-native-scrollable-tab-view](https://github.com/ptomasroos/react-native-scrollable-tab-view) - Tabbed navigation that you can swipe between, each tab can have its own ScrollView and maintain its own scroll position between swipes.
+- [👍react-native-scrollable-tab-view](https://github.com/ptomasroos/react-native-scrollable-tab-view) - Tabbed navigation that you can swipe between, each tab can have its own ScrollView and maintain its own scroll position between swipes.
 
-- [👍👏react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.
+- [👍react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.
 
 - [👏react-native-svg](https://github.com/react-native-community/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
 
