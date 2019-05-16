@@ -8,6 +8,8 @@
 
 - [👍👏react-native-scrollable-tab-view](https://github.com/ptomasroos/react-native-scrollable-tab-view) - Tabbed navigation that you can swipe between, each tab can have its own ScrollView and maintain its own scroll position between swipes.
 
+- [👍👏react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.
+
 - [👏react-native-svg](https://github.com/react-native-community/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
 
 - [👏react-native-storage](https://github.com/sunnylqm/react-native-storage) - local storage wrapper for both react-native and browser. Support size controlling, auto expiring, remote data auto syncing and getting batch data in one query.
@@ -46,6 +48,12 @@
 
 - [👏react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping
 
+- [👏react-native-swiper](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
+
+- [👏react-native-webview](https://github.com/react-native-community/react-native-webview) - React Native Cross-Platform WebView
+
+- [👏react-native-video](https://github.com/react-native-community/react-native-video) - A <Video /> component for react-native
+
 - [jpush-react-native](https://github.com/jpush/jpush-react-native) - JPush's officially supported React Native plugin (Android & iOS).
 
 - [react-native-bottom-sheet-behavior](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - react-native wrapper for android BottomSheetBehavior
@@ -65,6 +73,20 @@
 - [react-native-pdf](https://github.com/wonday/react-native-pdf) - a react native pdf view module
 
 - [react-native-qrcode](https://github.com/cssivision/react-native-qrcode) - a minimalist qrcode component for react-native
+
+- [react-native-screens](https://github.com/kmagiera/react-native-screens) - First incomplete navigation solution for your React Native app
+
+- [react-native-sentry](https://github.com/getsentry/react-native-sentry) - Official Sentry SDK for react-native https://sentry.io
+
+- [react-native-switch](https://github.com/shahen94/react-native-switch) - Customisable switch component for RN
+
+- [react-native-table-component](https://github.com/Gil2015/react-native-table-component) - 🌱Build table for react native
+
+- [react-native-text-input-mask](https://github.com/react-native-community/react-native-text-input-mask) - Text input mask for React Native, Android and iOS
+
+- [react-native-timeline-listview](https://github.com/thegamenicorus/react-native-timeline-listview) - Timeline component for React Native App work for Android and iOS
+
+- [react-native-transformable-image](https://github.com/ldn0x7dc/react-native-transformable-image) - A pure JavaScript written transformable image component, like PhotoView or ImageViewer, supports gestures like pan, pinch, double tab and fling, works with both iOS and Android.
 
 ## Debug
 
